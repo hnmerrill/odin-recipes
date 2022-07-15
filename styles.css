@@ -1,0 +1,21 @@
+html{
+    background-color: aliceblue;
+}
+
+footer{
+    font-size: small;
+}
+
+.even{
+    background-color: #efeff0;
+}
+
+.odd{
+    background-color: #D5CAD6;
+}
+
+.rightnav{
+    font-size: medium;
+    font-weight: normal;
+    float: right;
+}
