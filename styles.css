@@ -6,6 +6,11 @@ footer{
     font-size: small;
 }
 
+img{
+    height: 400px;
+    width: 500px;
+}
+
 .even{
     background-color: #efeff0;
 }
